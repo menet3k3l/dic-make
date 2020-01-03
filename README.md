@@ -2,7 +2,7 @@
 Password dictionary generator
 
 # How to use?
-start the program with -> python3 dic-make.py [options]
+python3 dic-make.py [options]
 
 # Options:
 -h  ... ... ... help
