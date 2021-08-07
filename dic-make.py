@@ -222,4 +222,3 @@ for i in range(len(mixed)):
 
 f.close()
 
-#menet3k3l 2020
